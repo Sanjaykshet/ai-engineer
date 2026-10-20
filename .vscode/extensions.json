@@ -3,3 +3,9 @@
         "openai.chatgpt"
     ]
 }
+//mkdir week5
+// cd week5
+// mkdir day18
+// cd day18
+// uv init --vcs none
+// uv add groq tavily-python python-dotenv
